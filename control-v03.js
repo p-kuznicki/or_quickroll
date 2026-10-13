@@ -15,7 +15,7 @@ async function showPanel() {
   try { await OBR.popover.close(POPOVER_ID); } catch (_) {}
   await OBR.popover.open({
     id: POPOVER_ID,
-    url: "/panel-v03.html",
+    url: new URL("./panel-v03.html", import.meta.url).href,
     width: PANEL_WIDTH,
     height: PANEL_HEIGHT,
     anchorReference: "POSITION",
