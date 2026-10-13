@@ -1,3 +1,7 @@
+# 4E Quick Rolls for Bones! — v0.3.3
+
+GitHub Pages fix for repository name `or_quickroll`. Manifest URLs are rooted at `/or_quickroll/`, because Owlbear resolves manifest resources from the site root rather than from the folder containing `manifest.json`.
+
 # 4E Quick Rolls for Bones!
 
 Małe rozszerzenie do Owlbear Rodeo, które dodaje stale widoczny panel z pięcioma rzutami:
