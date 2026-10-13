@@ -1,0 +1,16 @@
+{
+  "name": "4E Quick Rolls for Bones",
+  "version": "0.3.1",
+  "manifest_version": 1,
+  "description": "Five one-click quick rolls that send simple dice macros to Bones!",
+  "author": "OpenAI",
+  "icon": "/icon.svg",
+  "background_url": "/background-v03.html",
+  "action": {
+    "title": "4E Quick Rolls",
+    "icon": "/icon.svg",
+    "popover": "/control-v03.html",
+    "width": 190,
+    "height": 56
+  }
+}
