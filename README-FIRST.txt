@@ -1,11 +1,8 @@
-4E QUICK ROLLS v0.3 — NAJPROSTSZE URUCHOMIENIE
+4E QUICK ROLLS v0.4.0
 
-1. Otwórz terminal w tym folderze.
-2. Wpisz: ./start.sh
-3. W Owlbear Rodeo dodaj custom extension z linku:
-   http://localhost:8001/manifest.json
-4. Jeśli Owlbear nadal pokazuje starą wersję, usuń poprzedni wpis extensionu i dodaj powyższy link ponownie.
-5. Serwer zatrzymujesz Ctrl+C.
+1. Wgraj CAŁĄ zawartość tego folderu do root repozytorium GitHub Pages `or_quickroll`.
+2. Poczekaj, aż GitHub Actions -> Pages build and deployment będzie zielone.
+3. Sprawdź, że publiczny manifest.json pokazuje wersję 0.4.0.
+4. Ctrl+F5 w Owlbear Rodeo.
 
-Ta wersja ma wyłączone cache po stronie lokalnego serwera i nowe nazwy plików v03,
-żeby przeglądarka nie ładowała starego panelu.
+Nowości: 8 własnych makr + D20, trwały zapis makr po reloadzie przez localStorage.
