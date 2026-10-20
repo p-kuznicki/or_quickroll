@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>4E Quick Rolls</title>
+  <link rel="stylesheet" href="./style-v050.css">
+</head>
+<body>
+  <main class="panel">
+    <header>
+      <strong>Quick Rolls</strong>
+      <div class="headerActions"><button id="dragHandle" class="iconButton dragHandle" type="button" title="Przeciągnij panel">✥</button><button id="editToggle" class="iconButton" type="button" title="Edytuj makra">⚙</button></div>
+    </header>
+
+    <section id="rollView" class="rollView">
+      <div id="customButtons" class="grid"></div>
+    </section>
+
+    <section id="editView" class="editView hidden">
+      <div id="fields"></div>
+      <div class="editActions">
+        <button id="cancel" type="button">Anuluj</button>
+        <button id="save" class="primary" type="button">Zapisz</button>
+      </div>
+    </section>
+
+    <div id="status" class="status" aria-live="polite"></div>
+  </main>
+  <script type="module" src="./panel-v050.js"></script>
+</body>
+</html>
