@@ -1,25 +1,11 @@
-# 4E Quick Rolls v0.6.1
+# 4E Quick Rolls v0.7.0
 
-Zmiana względem v0.6.0: większa i bardziej zbalansowana czcionka zapisu kości, gdy przycisk ma własną nazwę. Rozmiar panelu i przycisków bez zmian.
+Zmiany:
+- zębatka otwiera osobne, duże, wycentrowane okno ustawień;
+- wszystkie 8 makr w ustawieniach są widoczne naraz w układzie 2 kolumny × 4 rzędy;
+- prawy klik na przycisku nadal otwiera szybką edycję tylko tego jednego makra w małym panelu;
+- zapisywanie makr i kolorów między sesjami pozostaje bez zmian;
+- różowy, goły `1d20` jest domyślnie w ostatnim (prawym dolnym) slocie;
+- istniejące zmienione makra użytkownika nie są nadpisywane; stary, nietknięty zestaw domyślny jest automatycznie przestawiany na nowy układ.
 
-**Ważne:** zapisane makra z v0.6.0 są zachowane — klucze konfiguracji nie zostały zmienione.
-
-# 4E Quick Rolls for Bones! — v0.6.0
-
-## Nowości
-
-- Zamiast pełnego HTML color pickera każdy makro-przycisk ma prostą paletę 9 kolorowych kropek.
-- Prawy klik na dowolnym przycisku otwiera edycję tylko tego jednego makra.
-- Lewy klik nadal natychmiast wykonuje rzut.
-- Zębatka nadal otwiera edycję wszystkich 8 makr.
-- Konfiguracja pozostaje zapisywana między sesjami/reloadami.
-
-## Domyślny układ
-
-1–4: `1d20` (pierwszy różowy)
-5: `1d6`
-6: `1d8`
-7: `1d10`
-8: `1d12`
-
-Nazwy są puste; gdy nazwa jest pusta, przycisk pokazuje samo makro.
+Wymaga włączonego Bones! w tym samym Roomie.
