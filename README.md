@@ -1,3 +1,9 @@
+# 4E Quick Rolls v0.6.1
+
+Zmiana względem v0.6.0: większa i bardziej zbalansowana czcionka zapisu kości, gdy przycisk ma własną nazwę. Rozmiar panelu i przycisków bez zmian.
+
+**Ważne:** zapisane makra z v0.6.0 są zachowane — klucze konfiguracji nie zostały zmienione.
+
 # 4E Quick Rolls for Bones! — v0.6.0
 
 ## Nowości
