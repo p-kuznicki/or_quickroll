@@ -1,8 +1,11 @@
-4E QUICK ROLLS v0.4.0
+4E Quick Rolls v0.6.0
 
-1. Wgraj CAŁĄ zawartość tego folderu do root repozytorium GitHub Pages `or_quickroll`.
-2. Poczekaj, aż GitHub Actions -> Pages build and deployment będzie zielone.
-3. Sprawdź, że publiczny manifest.json pokazuje wersję 0.4.0.
-4. Ctrl+F5 w Owlbear Rodeo.
+1. Wgraj całą zawartość folderu do repozytorium GitHub Pages, zastępując poprzednie pliki.
+2. Poczekaj na zielone "Pages build and deployment".
+3. W Owlbear Rodeo wykonaj Ctrl+F5.
 
-Nowości: 8 własnych makr + D20, trwały zapis makr po reloadzie przez localStorage.
+Obsługa:
+- lewy klik = rzut
+- prawy klik = edycja tylko tego przycisku
+- zębatka = edycja wszystkich przycisków
+- kolor = wybór z kropek
