@@ -1,8 +1,8 @@
 {
   "name": "4E Quick Rolls for Bones",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "manifest_version": 1,
-  "description": "Ten persistent one-click Bones macros in a compact 2x5 panel, with MOVE/EDIT controls, color presets, right-click editing, and a centered 2x5 settings window.",
+  "description": "10 persistent one-click dice macros for Bones with colors and quick editing.",
   "author": "OpenAI",
   "icon": "/or_quickroll/icon.svg",
   "background_url": "/or_quickroll/background-v080.html",
